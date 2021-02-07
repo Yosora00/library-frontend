@@ -19,6 +19,7 @@
           <b-nav-item href="#">共享图书</b-nav-item>
           <b-nav-item href="#">借阅记录</b-nav-item>
           <b-nav-item href="#">积分商城</b-nav-item>
+          <b-nav-item href="#">管理员</b-nav-item>
         </b-navbar-nav>
 
         <b-navbar-nav class="ml-auto">
